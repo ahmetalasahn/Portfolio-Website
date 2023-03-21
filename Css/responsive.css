@@ -1,0 +1,23 @@
+@media only screen and (max-width: 885px)
+{
+    ul{
+        color: white;
+        display: block;
+    }
+    ul li{
+        padding: 25px;
+        display: block;
+    }
+    .container .text{
+        position: relative;
+        color: #6DC200;
+        font-size: 30px;
+        font-weight: 600;
+        left: -300px;
+    }
+    .myPics
+    {
+        position: relative;
+        left: -300px;
+    }
+}
